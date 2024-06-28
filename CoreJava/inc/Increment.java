@@ -1,6 +1,6 @@
 package CoreJava.inc;
 
-public class IncrementDecrement {
+public class Increment {
     public static void main(String[] args) {
         //Increment- Pre and Post
         // ++b is Pre
@@ -40,7 +40,7 @@ public class IncrementDecrement {
         System.out.println(d++ +d + d++ + d);
 
         // Break down the code
-        // d++ - 1+1=2 Exp- 2 and b-2
+        // d++ - 1+1=2 Exp- 1 and b-2
         // d - 2 Exp-2 and b-2
         // d++ - 2+1=3 Exp-2 and b-3
         // d - 3 Exp- 3
